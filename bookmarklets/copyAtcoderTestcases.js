@@ -18,5 +18,4 @@
     }_${n}; `;
   }
   await navigator.clipboard.writeText(command);
-  alert("Copy command!");
 })();
